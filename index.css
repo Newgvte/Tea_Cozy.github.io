@@ -96,7 +96,7 @@ top: 70px;
 .locations {
     height: 580px;
     width: 1200px;
-    background-image: url(/ressources/images/img-locations-background.jpg);
+    background-image: url(../images/img-locations-background.jpg);
     margin: auto;
 }
 .contact {
