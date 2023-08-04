@@ -1,0 +1,109 @@
+body {
+    background-color: black;
+    font-family: Helvetica;
+    font-size: 22px;
+    color: seashell;
+    opacity: 0.9;
+    margin: 0;
+    padding: 0;
+}
+header {
+    margin-top: 30px;
+    border-bottom: 1px solid seashell;
+    position: sticky;
+    top: 20px;
+}
+
+#logo {
+    margin-left: 10px;
+    
+}
+.nav li {
+    display: inline;
+    margin: 0 15px;
+    text-decoration: underline;
+   position: relative; 
+   left: 1500px;
+   bottom: 92px;
+   
+}
+.nav a {
+    color: white;
+}
+
+#first {
+    height: 700px;
+    width: 1200px;
+    display: block;
+    margin: auto;
+}
+.text {
+    background-color: black;
+    text-align: center;
+    position: relative;
+    bottom: 425px;
+}
+.title {
+    text-align: center;
+}
+.TOTM1 {
+    display: flex;
+    justify-content: center;
+}
+.TOTM1 img {
+height: 200;
+width: 300px;
+justify-content: space-evenly;
+margin-left: 15px;
+margin-right: 15px;
+}
+.TOTM2 {
+    display: flex;
+    justify-content: center;
+}
+.TOTM2 img {
+height: 200;
+width: 300px;
+justify-content: space-evenly;
+margin-left: 15px;
+margin-right: 15px;
+}
+.teas h4 {
+    text-align: center;
+    position: relative;
+    bottom: 10px;
+}
+
+ .adress {
+    display: flex;
+    justify-content: center;
+}
+.locations h2 {
+text-align: center;
+position: relative;
+top: 70px;
+}
+
+.adress div {
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    margin: 0px 40px 0px 40px;
+background-color: black;
+position: relative;
+top: 70px;
+}
+.locations {
+    height: 580px;
+    width: 1200px;
+    background-image: url(/ressources/images/img-locations-background.jpg);
+    margin: auto;
+}
+.contact {
+    height: 200px;
+    text-align: center;
+  
+}
+div h3, p {
+    line-height:2;
+}
